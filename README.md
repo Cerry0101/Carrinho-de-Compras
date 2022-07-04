@@ -13,3 +13,12 @@ use in terminal: npm start <br>
 
 
 ## Screens<br><br>
+:heavy_check_mark: Vitrine, onde ficam os produtos disponíveis.<br><br>
+![tela0](https://user-images.githubusercontent.com/50150158/177165158-78eebe4b-3f92-4e5c-9544-676481c9dde8.png)<br><br>
+
+:heavy_check_mark: Detalhes, onde ficam os detalhes referentes ao produto selecionado.<br><br>
+![tela2](https://user-images.githubusercontent.com/50150158/177165205-e63cb96c-21fe-4017-b648-3778240f6b44.png)<br><br>
+
+:heavy_check_mark: Carrinho de compras, onde fica os produtos que vão ser comprados, sua respectiva quantidade e valor total da compra.<br><br>
+![tela3](https://user-images.githubusercontent.com/50150158/177165256-69531e83-c863-425c-9169-2c3668f82b5a.png)
+![tela4](https://user-images.githubusercontent.com/50150158/177165097-1469c4ec-56bb-49a3-9326-cd7465633a01.png)
