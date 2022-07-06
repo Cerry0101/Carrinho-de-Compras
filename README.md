@@ -3,7 +3,8 @@
 
 ## Project description<br><br>
   💻 O carrinho de compras, é feito em ReactJs e Nodejs, feito para o NAPII de Desenvolvimento Web da UFRA. O carrinho adiciona compras a um carrinho setado na sessão do navegador, fazendo a soma dos totais de gastos e contendo a opção de adicionar, dar update no carrinho e excluir elementos.
-<br><br><br>
+<br><br><br> 
+  💻 Obs: você precisa instalar o node no seu computador. <br><br><br> 
 use in terminal: npm install <br>
 ![npm_install](https://user-images.githubusercontent.com/50150158/177162012-33a5cd33-326c-4d62-983e-f811443d3c70.png)<br><br>
 
